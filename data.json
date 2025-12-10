@@ -1,0 +1,101 @@
+[
+  {
+    "id": "L001",
+    "title": "Intro to Vue",
+    "subject": "Vue.js",
+    "location": "Port Harcourt",
+    "price": 49,
+    "spaces": 5,
+    "icon": "fa-brands fa-vuejs"
+  },
+  {
+    "id": "L002",
+    "title": "Advanced JS",
+    "subject": "JavaScript",
+    "location": "Lagos",
+    "price": 69,
+    "spaces": 5,
+    "icon": "fa-brands fa-js"
+  },
+  {
+    "id": "L003",
+    "title": "HTML & Accessibility",
+    "subject": "HTML",
+    "location": "Abuja",
+    "price": 39,
+    "spaces": 5,
+    "icon": "fa-solid fa-code"
+  },
+  {
+    "id": "L004",
+    "title": "CSS Layouts",
+    "subject": "CSS",
+    "location": "Benin",
+    "price": 45,
+    "spaces": 5,
+    "icon": "fa-brands fa-css3-alt"
+  },
+  {
+    "id": "L005",
+    "title": "Node & Express",
+    "subject": "Node.js",
+    "location": "Owerri",
+    "price": 75,
+    "spaces": 5,
+    "icon": "fa-brands fa-node-js"
+  },
+  {
+    "id": "L006",
+    "title": "MongoDB Basics",
+    "subject": "Databases",
+    "location": "Uyo",
+    "price": 55,
+    "spaces": 5,
+    "icon": "fa-solid fa-database"
+  },
+  {
+    "id": "L007",
+    "title": "React Concepts",
+    "subject": "React",
+    "location": "Port Harcourt",
+    "price": 60,
+    "spaces": 5,
+    "icon": "fa-brands fa-react"
+  },
+  {
+    "id": "L008",
+    "title": "Testing JS",
+    "subject": "Testing",
+    "location": "Lagos",
+    "price": 50,
+    "spaces": 5,
+    "icon": "fa-solid fa-vial"
+  },
+  {
+    "id": "L009",
+    "title": "UX Fundamentals",
+    "subject": "UX",
+    "location": "Abuja",
+    "price": 42,
+    "spaces": 5,
+    "icon": "fa-solid fa-user-pen"
+  },
+  {
+    "id": "L010",
+    "title": "Deployment & CI",
+    "subject": "DevOps",
+    "location": "Benin",
+    "price": 80,
+    "spaces": 5,
+    "icon": "fa-solid fa-server"
+  },
+  {
+    "id": "L011",
+    "title": "Quantitative Reasoning",
+    "subject": "Quantitative Apptitude",
+    "location": "Lagos",
+    "price": 40,
+    "spaces": 5,
+    "icon": "fa-solid fa-info-circle"
+  }
+]
