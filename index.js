@@ -4,7 +4,7 @@ const { MongoClient, ObjectId } = require('mongodb');
 
 const app = express();
 const PORT = process.env.PORT || 3010;
-const MONGO_URI = process.env.MONGO_URI || 'mongodb://localhost:27017/';
+const MONGO_URI = 'mongodb+srv://daniel_db_user:f7yRNqE4g9k2Xcri@cluster0.hcu3jpe.mongodb.net/?appName=Cluster0';
 const DB_NAME = 'digital_academy';
 
 app.use(cors());
